@@ -1,0 +1,60 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppCompatTheme" parent="@style/AppTheme">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <style name="BackGroundWhite">
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="BackGroundGray">
+        <item name="android:background">@color/gray_300</item>
+    </style>
+
+    <style name="BackGroundTeal">
+        <item name="backgroundTint">@color/teal_500</item>
+    </style>
+
+    <style name="CardPrimaryText">
+        <item name="android:textSize">@dimen/card_view_primary_font_size</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:paddingTop">@dimen/card_view_margin_padding_a</item>
+        <item name="android:paddingStart">@dimen/card_view_margin_default_c</item>
+        <item name="android:paddingEnd">@dimen/card_view_margin_default_c</item>
+        <item name="android:paddingBottom">@dimen/card_view_margin_default_c</item>
+        <item name="android:background">@drawable/scrim</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:maxLength">20</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+    <style name="CardSecondaryText">
+        <item name="android:textSize">@dimen/card_view_secondary_font_size</item>
+        <item name="android:textColor">@color/black_transp_60</item>
+        <item name="android:paddingTop">@dimen/card_view_margin_padding_b</item>
+        <item name="android:layout_marginBottom">@dimen/card_view_margin_default_c</item>
+    </style>
+
+    <style name="AppBarPrimaryText">
+        <item name="android:textSize">@dimen/app_bar_primary_font_size</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+    <style name="AppBarSecondaryText">
+        <item name="android:textSize">@dimen/app_bar_secondary_font_size</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+</resources>

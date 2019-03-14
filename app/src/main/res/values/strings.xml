@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XYZReader</string>
+    <string name="unexpected_error">Erro inesperado, retorne em breve.</string>
+    <string name="no_data">Não foram encontrados os dados, retorne em breve.</string>
+</resources>

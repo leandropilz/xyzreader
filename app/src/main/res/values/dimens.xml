@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_view_primary_font_size">16sp</dimen>
+    <dimen name="card_view_secondary_font_size">14sp</dimen>
+    <dimen name="app_bar_primary_font_size">18sp</dimen>
+    <dimen name="app_bar_secondary_font_size">14sp</dimen>
+    <dimen name="card_view_margin_default_a">16dp</dimen>
+    <dimen name="card_view_margin_default_b">24dp</dimen>
+    <dimen name="card_view_margin_default_c">8dp</dimen>
+    <dimen name="card_view_margin_padding_a">24dp</dimen>
+    <dimen name="card_view_margin_padding_b">16dp</dimen>
+    <dimen name="fab_margin">8dp</dimen>
+    <dimen name="app_bar_layout_height">250dp</dimen>
+</resources>
